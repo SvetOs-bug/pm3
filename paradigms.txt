@@ -1,0 +1,315 @@
+-paradigm: N_m_2_irreg
+ -flex: <0>.0
+  gramm: N,nom,sg
+ -flex: <1>.а
+  gramm: N,gen,sg
+ -flex: <1>.у
+  gramm: N,dat,sg
+ -flex: <0>.0
+  gramm: N,acc,sg
+ -flex: <1>.ом
+  gramm: N,instr,sg
+ -flex: <1>.е//<1>.у
+  gramm: N,prep,sg
+ -flex: <1>.ы
+  gramm: N,nom,pl
+ -flex: <1>.ов
+  gramm: N,gen,pl
+ -flex: <1>.ам
+  gramm: N,dat,pl
+ -flex: <1>.ы
+  gramm: N,acc,pl
+ -flex: <1>.ами
+  gramm: N,instr,pl
+ -flex: <1>.ах
+  gramm: N,prep,pl
+
+
+-paradigm: N_f_1
+ -flex: .а
+  gramm: N,nom,sg
+ -flex: .ы
+  gramm: N,gen,sg
+ -flex: .е
+  gramm: N,dat,sg
+ -flex: .у
+  gramm: N,acc,sg
+ -flex: .ой
+  gramm: N,instr,sg
+ -flex: .е
+  gramm: N,prep,sg
+ -flex: .ы
+  gramm: N,nom,pl
+ -flex: .0
+  gramm: N,gen,pl
+ -flex: .ам
+  gramm: N,dat,pl
+ -flex: .ы
+  gramm: N,acc,pl
+ -flex: .ами
+  gramm: N,instr,pl
+ -flex: .ах
+  gramm: N,prep,pl
+
+-paradigm: ADJ_cons
+ -flex: .ый
+  gramm: ADJ,m,nom,sg
+ -flex: .ого
+  gramm: ADJ,m,gen,sg
+ -flex: .ому
+  gramm: ADJ,m,dat,sg
+ -flex: .ый
+  gramm: ADJ,m,acc,sg,inan
+ -flex: .ого
+  gramm: ADJ,m,acc,sg,anim
+ -flex: .ым
+  gramm: ADJ,m,instr,sg
+ -flex: .ом
+  gramm: ADJ,m,prep,sg
+ -flex: .ая
+  gramm: ADJ,f,nom,sg
+ -flex: .ой
+  gramm: ADJ,f,gen,sg
+ -flex: .ой
+  gramm: ADJ,f,dat,sg
+ -flex: .ую
+  gramm: ADJ,f,acc,sg
+ -flex: .ой//.ою
+  gramm: ADJ,f,instr,sg
+ -flex: .ой
+  gramm: ADJ,f,prep,sg
+ -flex: .ое
+  gramm: ADJ,n,nom,sg
+ -flex: .ого
+  gramm: ADJ,n,gen,sg
+ -flex: .ому
+  gramm: ADJ,n,dat,sg
+ -flex: .ое
+  gramm: ADJ,n,acc,sg
+ -flex: .ым
+  gramm: ADJ,n,instr,sg
+ -flex: .ом
+  gramm: ADJ,n,prep,sg
+ -flex: .ые
+  gramm: ADJ,pl,nom
+ -flex: .ых
+  gramm: ADJ,pl,gen
+ -flex: .ым
+  gramm: ADJ,pl,dat
+ -flex: .ые
+  gramm: ADJ,pl,acc,inan
+ -flex: .ых
+  gramm: ADJ,pl,acc,anim
+ -flex: .ыми
+  gramm: ADJ,pl,instr
+ -flex: .ых
+  gramm: ADJ,pl,prep
+
+
+-paradigm: PREP_invar
+ -flex: .
+  gramm: PREP
+
+-paradigm: ADV_invar
+ -flex: .
+  gramm: ADV
+
+-paradigm: V_2
+ -flex: .ять
+  gramm: V,inf
+ -flex: .ю
+  gramm: V,pres,1,sg
+ -flex: .ишь
+  gramm: V,pres,2,sg
+ -flex: .ит
+  gramm: V,pres,3,sg
+ -flex: .им
+  gramm: V,pres,1,pl
+ -flex: .ите
+  gramm: V,pres,2,pl
+ -flex: .ят
+  gramm: V,pres,3,pl
+ -flex: .ял
+  gramm: V,past,m,sg
+ -flex: .яла
+  gramm: V,past,f,sg
+ -flex: .яло
+  gramm: V,past,n,sg
+ -flex: .яли
+  gramm: V,past,pl
+
+
+-paradigm: V_2_ref
+ -flex: .ться
+  gramm: V,inf
+ -flex: .лся
+  gramm: V,past,m,sg
+ -flex: .лась
+  gramm: V,past,f,sg
+ -flex: .лось
+  gramm: V,past,n,sg
+ -flex: .лись
+  gramm: V,past,pl
+
+
+-paradigm: PN_pers_1sg
+ -flex: <0>.
+  gramm: nom
+ -flex: <1>.я
+  gramm: gen
+ -flex: <2>.е
+  gramm: dat
+ -flex: <1>.я
+  gramm: acc
+ -flex: <2>.ой//<2>.ою
+  gramm: instr
+ -flex: <2>.е
+  gramm: prep
+
+-paradigm: N_m_1
+ -flex: .0
+  gramm: N,nom,sg
+ -flex: .а
+  gramm: N,gen,sg
+ -flex: .у
+  gramm: N,dat,sg
+ -flex: .0
+  gramm: N,acc,sg
+ -flex: .ом
+  gramm: N,instr,sg
+ -flex: .е
+  gramm: N,prep,sg
+ -flex: .ы
+  gramm: N,nom,pl
+ -flex: .ов
+  gramm: N,gen,pl
+ -flex: .ам
+  gramm: N,dat,pl
+ -flex: .ы
+  gramm: N,acc,pl
+ -flex: .ами
+  gramm: N,instr,pl
+ -flex: .ах
+  gramm: N,prep,pl
+
+
+-paradigm: N_n_1
+ -flex: .о
+  gramm: N,nom,sg
+ -flex: .а
+  gramm: N,gen,sg
+ -flex: .у
+  gramm: N,dat,sg
+ -flex: .о
+  gramm: N,acc,sg
+ -flex: .ом
+  gramm: N,instr,sg
+ -flex: .е
+  gramm: N,prep,sg
+ -flex: .а
+  gramm: N,nom,pl
+ -flex: .0
+  gramm: N,gen,pl
+ -flex: .ам
+  gramm: N,dat,pl
+ -flex: .а
+  gramm: N,acc,pl
+ -flex: .ами
+  gramm: N,instr,pl
+ -flex: .ах
+  gramm: N,prep,pl
+
+
+-paradigm: V_ать
+ -flex: .ть
+  gramm: V,inf
+ -flex: .ю
+  gramm: V,pres,1,sg
+ -flex: .ешь
+  gramm: V,pres,2,sg
+ -flex: .ет
+  gramm: V,pres,3,sg
+ -flex: .ем
+  gramm: V,pres,1,pl
+ -flex: .ете
+  gramm: V,pres,2,pl
+ -flex: .ют
+  gramm: V,pres,3,pl
+ -flex: .л
+  gramm: V,past,m,sg
+ -flex: .ла
+  gramm: V,past,f,sg
+ -flex: .ло
+  gramm: V,past,n,sg
+ -flex: .ли
+  gramm: V,past,pl
+
+
+-paradigm: V_ить
+ -flex: .ить
+  gramm: V,inf
+ -flex: .ю
+  gramm: V,pres,1,sg
+ -flex: .ишь
+  gramm: V,pres,2,sg
+ -flex: .ит
+  gramm: V,pres,3,sg
+ -flex: .им
+  gramm: V,pres,1,pl
+ -flex: .ите
+  gramm: V,pres,2,pl
+ -flex: .ят
+  gramm: V,pres,3,pl
+ -flex: .ил
+  gramm: V,past,m,sg
+ -flex: .ила
+  gramm: V,past,f,sg
+ -flex: .ило
+  gramm: V,past,n,sg
+ -flex: .или
+  gramm: V,past,pl
+
+
+-paradigm: V_ref_ать
+ -flex: .аться
+  gramm: V,inf
+ -flex: .аюсь
+  gramm: V,pres,1,sg
+ -flex: .аешься
+  gramm: V,pres,2,sg
+ -flex: .ается
+  gramm: V,pres,3,sg
+ -flex: .аемся
+  gramm: V,pres,1,pl
+ -flex: .аетесь
+  gramm: V,pres,2,pl
+ -flex: .аются
+  gramm: V,pres,3,pl
+ -flex: .ался
+  gramm: V,past,m,sg
+ -flex: .алась
+  gramm: V,past,f,sg
+ -flex: .алось
+  gramm: V,past,n,sg
+ -flex: .ались
+  gramm: V,past,pl
+
+-paradigm: V_еть
+ -flex: еть
+  gramm: V,inf
+ -flex: ит
+  gramm: V,pres,3,sg
+ -flex: им
+  gramm: V,pres,1,pl
+ -flex: ите
+  gramm: V,pres,2,pl
+ -flex: ят
+  gramm: V,pres,3,pl
+ -flex: ел
+  gramm: V,past,m,sg
+ -flex: ела
+  gramm: V,past,f,sg
+ -flex: ело
+  gramm: V,past,n,sg
+ -flex: ели
+  gramm: V,past,pl

@@ -1,0 +1,142 @@
+-lexeme
+ lex: диван
+ stem: диван.//диван.
+ gramm: N
+ paradigm: N_m_2_irreg
+-lexeme
+ lex: угол
+ stem: угол.//угл.
+ gramm: N
+ paradigm: N_m_2_irreg
+-lexeme
+ lex: ваза
+ stem: ваз.
+ gramm: N
+ paradigm: N_f_1
+-lexeme
+ lex: стоять
+ stem: сто.
+ gramm: V
+ paradigm: V_2
+-lexeme
+ lex: удариться
+ stem: удари.
+ gramm: V
+ paradigm: V_2_ref
+-lexeme
+ lex: старый
+ stem: стар.
+ gramm: ADJ
+ paradigm: ADJ_cons
+-lexeme
+ lex: в
+ stem: в.
+ gramm: PREP
+ paradigm: PREP_invar
+-lexeme
+ lex: об
+ stem: об.
+ gramm: PREP
+ paradigm: PREP_invar
+-lexeme
+ lex: сильно
+ stem: сильно.
+ gramm: ADV
+ paradigm: ADV_invar
+-lexeme
+ lex: я
+ stem: я.//мен.//мн.
+ gramm: PN, 1sg
+ paradigm: PN_pers_1sg
+
+
+-lexeme
+ lex: кот
+ stem: кот.
+ gramm: N
+ paradigm: N_m_1
+-lexeme
+ lex: шар
+ stem: шар.
+ gramm: N
+ paradigm: N_m_1
+-lexeme
+ lex: мост
+ stem: мост.
+ gramm: N
+ paradigm: N_m_1
+-lexeme
+ lex: билет
+ stem: билет.
+ gramm: N
+ paradigm: N_m_1
+-lexeme
+ lex: окно
+ stem: окн.
+ gramm: N
+ paradigm: N_n_1
+-lexeme
+ lex: место
+ stem: мест.
+ gramm: N
+ paradigm: N_n_1
+-lexeme
+ lex: лампа
+ stem: ламп.
+ gramm: N
+ paradigm: N_f_1
+-lexeme
+ lex: газета
+ stem: газет.
+ gramm: N
+ paradigm: N_f_1
+-lexeme
+ lex: читать
+ stem: чита.
+ gramm: V
+ paradigm: V_ать
+-lexeme
+ lex: работать
+ stem: работа.
+ gramm: V
+ paradigm: V_ать
+-lexeme
+ lex: ценить
+ stem: цен.
+ gramm: V
+ paradigm: V_ить
+-lexeme
+ lex: хранить
+ stem: хран.
+ gramm: V
+ paradigm: V_ить
+-lexeme
+ lex: улыбаться
+ stem: улыба.
+ gramm: V
+ paradigm: V_ref_ать
+-lexeme
+ lex: быстро
+ stem: быстро.
+ gramm: ADV
+ paradigm: ADV_invar
+-lexeme
+ lex: медленно
+ stem: медленно.
+ gramm: ADV
+ paradigm: ADV_invar
+-lexeme
+ lex: на
+ stem: на.
+ gramm: PREP
+ paradigm: PREP_invar
+-lexeme
+ lex: с
+ stem: с.
+ gramm: PREP
+ paradigm: PREP_invar
+-lexeme
+ lex: сидеть
+ stem: сид.
+ gramm: V
+ paradigm: V_еть
